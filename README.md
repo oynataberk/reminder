@@ -1,2 +1,3 @@
 # reminder
-Reminder developed with tkinter and pygame library
+Reminder application built with pygame and tkinter library.
+
